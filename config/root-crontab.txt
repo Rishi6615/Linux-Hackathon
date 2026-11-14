@@ -1,0 +1,3 @@
+# Documented schedules from the project guide
+0 2 * * * /usr/local/bin/hotel_backup.sh
+*/30 * * * * /usr/local/bin/hotel_monitor.sh
